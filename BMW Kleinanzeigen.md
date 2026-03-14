@@ -1,13 +1,11 @@
-# BMW 1er Kleinanzeigen
+# BMW 116i, 5-Türer, fahrbereit, noch angemeldet und versichert
 
-Marke
-BMW
-Modell
-1er (116i)
+Marke BMW
+Modell 1er (116i)
 Kilometerstand
 256.000 km
 Fahrzeugzustand
-Unbeschädigtes Fahrzeug
+Gebraucht
 Erstzulassung
 März 2009
 Kraftstoffart
@@ -31,36 +29,30 @@ Weitere Infos und Fotos:
 
 https://wmutschl.github.io/BMW/
 
-Wir verkaufen unseren BMW 1er (116i), 5-Türer, weil wir auf ein Elektroauto umsteigen.
+Wir verkaufen unseren BMW 1er 116i, da wir auf ein Elektroauto umsteigen.
 
-• Kilometerstand: ca. 256.000 km
-• HU/AU: 02/2026 (abgelaufen)
-• Umwelt: grüne Plakette (Kl. 4) / EURO 4
-• Getriebe: Schalter | Kraftstoff: Benzin
+Das Fahrzeug ist noch angemeldet und versichert, fahrbereit und kann nach Absprache besichtigt werden. Wegen abgelaufenem TÜV ist es besonders interessant für Bastler, Export oder zur Wiederaufbereitung.
+
+Daten:
+• BMW 116i, 5-Türer
 • Erstzulassung: 03/2009
-• Leistung: 90 kW (122 PS)
-
-Außen und innen dem Alter entsprechend mit üblichen Gebrauchsspuren.
-
-Ausstattung/Highlights:
-• 5-Türer
+• Kilometerstand: ca. 256.000 km
+• 90 kW / 122 PS
+• Benzin
+• Schaltgetriebe
+• 1599 cm³
 • Farbe: Schwarz
-• Grüne Umweltplakette
-
-Technische Daten (kurz):
-• Kraftstoff: Benzin (1599 cm³)
-• Getriebe: Schaltgetriebe
-• EZ: 03/2009 (laut Papieren)
-• Kilometer: 256.000 km
-• HU/AU: 02/2026 (abgelaufen)
+• Umweltplakette: Grün (Klasse 4)
+• Euro 4
 
 Zustand:
-• Karosserie und Innenraum mit altersüblichen Spuren
-• TÜV ist abgelaufen
-• Privatverkauf, keine Garantie/Gewährleistung/Rücknahme
+• Unfallschäden sind uns nicht bekannt
+• Innen und außen altersgemäßer Zustand mit üblichen Gebrauchsspuren
+• HU/AU abgelaufen seit 02/2026
+• Fahrzeug ist aktuell noch angemeldet und versichert
+• Probefahrt nach Absprache möglich
 
-Preis: VB €2.500
+Preis: 2.500 € VB
 Standort: Münster (Westf.)
 
-Kontakt:
-Besichtigung nach Absprache.
+Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme.
