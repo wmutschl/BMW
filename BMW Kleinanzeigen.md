@@ -26,7 +26,6 @@ Material Innenausstattung
 Stoff
 
 Weitere Infos und Fotos:
-
 https://wmutschl.github.io/BMW/
 
 Wir verkaufen unseren BMW 1er 116i, da wir auf ein Elektroauto umsteigen.
@@ -52,7 +51,7 @@ Zustand:
 • Fahrzeug ist aktuell noch angemeldet und versichert
 • Probefahrt nach Absprache möglich
 
-Preis: 2.500 € VB
+Preis: 2.800 € VB
 Standort: Münster (Westf.)
 
 Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme.
