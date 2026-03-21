@@ -51,7 +51,7 @@ Zustand:
 • Fahrzeug ist aktuell noch angemeldet und versichert
 • Probefahrt nach Absprache möglich
 
-Preis: 2.800 € VB
+Preis: 2.500 € VB
 Standort: Münster (Westf.)
 
 Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme.
